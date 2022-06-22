@@ -1,7 +1,7 @@
 # crm-react
 Mini CRM Application built with React
 
-This project integrates some features of ReactJS 16+. It adds users to CRM, list, edit and delete them
+This project integrates some features of ReactJS 15, 16+ (functional components & class components). It adds users to CRM, list, edit and delete them
 
 ## Features
 
