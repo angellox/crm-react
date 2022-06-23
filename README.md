@@ -8,7 +8,8 @@ This project integrates some features of ReactJS 15, 16+ (functional components 
 * React Router DOM V6
 * Formik
 * Hooks
-* Lifecycle components
+* Class Components (outed version)
+* Functional Components
 
 ## Java (Spring Boot)
 
