@@ -13,7 +13,31 @@ This project integrates some features of ReactJS 15, 16+ (functional components 
 
 ## Java (Spring Boot)
 
-* MySQL connector
+* MySQL connector (Creation of a DB on MySQL locally)
 * Lombok
 
+## Tool Testing API endpoints
+
+* Postman
+
 ## Snapshots
+
+### Página principal (`GET /clientes`)
+
+![Home page](https://github.com/angellox/crm-react/blob/main/Demo1.png)
+
+### Registrando un nuevo cliente (`POST /clientes`)
+
+![Registrando un nuevo usuario o cliente](https://github.com/angellox/crm-react/blob/main/Demo5.png)
+
+### Viendo datos de un cliente (`GET /clientes/{id}`)
+
+![Viendo datos de un cliente en específico](https://github.com/angellox/crm-react/blob/main/Demo2.png)
+
+### Editando los datos de un cliente (`PUT /clientes/{id}`)
+
+![Editando los datos de un cliente existente](https://github.com/angellox/crm-react/blob/main/Demo3.png)
+
+### Eliminando a un cliente en específico (`DELETE /clientes`)
+
+![Eliminando a un cliente de la lista y db](https://github.com/angellox/crm-react/blob/main/Demo4.png)
